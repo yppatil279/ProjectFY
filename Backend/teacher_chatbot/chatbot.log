@@ -1,0 +1,232 @@
+2025-04-06 11:01:58,453 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:01:58,460 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:01:58,584 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:02:00,135 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:02:00,136 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:02:00,146 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:02:00,164 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:02:13,867 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-06 11:02:13,870 - werkzeug - INFO -  * Running on http://192.168.0.118:8000/ (Press CTRL+C to quit)
+2025-04-06 11:05:06,641 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:05:06,645 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:05:06,667 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:05:08,147 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:05:08,148 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:05:08,163 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:05:08,172 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:05:13,881 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-06 11:05:13,881 - werkzeug - INFO -  * Running on http://192.168.0.118:8000/ (Press CTRL+C to quit)
+2025-04-06 11:07:22,250 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\Desktop\\FIY project\\qwen\\teacher_chatbot\\main.py', reloading
+2025-04-06 11:07:22,688 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:07:24,753 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:07:24,755 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:07:24,781 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:07:24,794 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:07:29,922 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-06 11:07:29,922 - werkzeug - INFO -  * Running on http://192.168.0.118:8000/ (Press CTRL+C to quit)
+2025-04-06 11:10:09,773 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:10:09,775 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:10:09,797 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:10:10,940 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:10:10,940 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:10:10,957 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:10:10,967 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:10:16,968 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-06 11:10:16,968 - werkzeug - INFO -  * Running on http://192.168.0.118:8000/ (Press CTRL+C to quit)
+2025-04-06 11:13:00,894 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:13:00,895 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:13:00,994 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.118:8000
+2025-04-06 11:13:00,994 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 11:13:00,994 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:13:02,043 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:13:02,043 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:13:02,059 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:13:02,067 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:13:10,104 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:13:10] "GET / HTTP/1.1" 200 -
+2025-04-06 11:13:10,296 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:13:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-06 11:13:13,376 - __main__ - INFO - Received query: hi
+2025-04-06 11:13:13,376 - __main__ - WARNING - Search API key not available, skipping web search
+2025-04-06 11:13:51,380 - __main__ - INFO - Received query: explain me about friction
+2025-04-06 11:13:51,381 - __main__ - WARNING - Search API key not available, skipping web search
+2025-04-06 11:15:06,954 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 11:15:06,958 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:15:06] "POST /query HTTP/1.1" 200 -
+2025-04-06 11:15:18,257 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\Desktop\\FIY project\\qwen\\teacher_chatbot\\main.py', reloading
+2025-04-06 11:15:18,716 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:15:20,565 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:15:20,565 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:15:20,615 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:15:20,623 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:16:23,354 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:16:23,354 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:16:23,487 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.118:8000
+2025-04-06 11:16:23,487 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 11:16:23,491 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:16:24,645 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:16:24,645 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:16:24,674 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:16:24,677 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:16:37,294 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:16:37] "GET / HTTP/1.1" 200 -
+2025-04-06 11:16:43,732 - __main__ - INFO - Received query: what is friction
+2025-04-06 11:16:43,733 - __main__ - WARNING - Search API key not available, skipping web search
+2025-04-06 11:16:59,598 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:16:59,600 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:16:59,665 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.118:8000
+2025-04-06 11:16:59,665 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 11:16:59,665 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:17:00,842 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:17:00,842 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:17:00,864 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:17:00,872 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:17:07,140 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:17:07] "GET / HTTP/1.1" 200 -
+2025-04-06 11:17:15,412 - __main__ - INFO - Received query: what is friction?
+2025-04-06 11:17:15,412 - __main__ - WARNING - Search API key not available, skipping web search
+2025-04-06 11:18:00,197 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 11:18:00,197 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:18:00] "POST /query HTTP/1.1" 200 -
+2025-04-06 11:19:16,600 - __main__ - INFO - Received query: what is  quantum physics
+2025-04-06 11:19:16,601 - __main__ - WARNING - Search API key not available, skipping web search
+2025-04-06 11:20:51,298 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 11:20:51,299 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:20:51] "POST /query HTTP/1.1" 200 -
+2025-04-06 11:26:44,821 - werkzeug - INFO -  * Detected change in 'C:\\Users\\ASUS\\Desktop\\FIY project\\qwen\\teacher_chatbot\\main.py', reloading
+2025-04-06 11:26:45,354 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:26:47,319 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:26:47,320 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:26:47,365 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:26:47,370 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:27:06,164 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:27:06,164 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:27:06,212 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.118:8000
+2025-04-06 11:27:06,212 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 11:27:06,218 - werkzeug - INFO -  * Restarting with stat
+2025-04-06 11:27:06,895 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-06 11:27:06,896 - __main__ - INFO - Model mistral not found. Make sure it's available in Ollama.
+2025-04-06 11:27:06,898 - werkzeug - WARNING -  * Debugger is active!
+2025-04-06 11:27:06,916 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-06 11:27:11,575 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:27:11] "GET / HTTP/1.1" 200 -
+2025-04-06 11:27:26,964 - __main__ - INFO - Received query: explain energy
+2025-04-06 11:27:26,964 - __main__ - WARNING - Search API key not available, skipping web search
+2025-04-06 11:30:04,028 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 11:30:04,053 - werkzeug - INFO - 192.168.0.118 - - [06/Apr/2025 11:30:04] "POST /query HTTP/1.1" 200 -
+2025-04-07 11:19:30,951 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-07 11:19:30,951 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-07 11:19:31,141 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.52.255:5000
+2025-04-07 11:19:31,141 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 11:19:31,154 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 11:19:32,254 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-07 11:19:32,254 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-07 11:19:32,275 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 11:19:32,283 - werkzeug - INFO -  * Debugger PIN: 902-220-276
+2025-04-07 11:19:40,922 - werkzeug - INFO - 10.10.52.255 - - [07/Apr/2025 11:19:40] "GET / HTTP/1.1" 200 -
+2025-04-07 11:19:41,124 - werkzeug - INFO - 10.10.52.255 - - [07/Apr/2025 11:19:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 11:19:56,172 - __main__ - INFO - Received query: what is artificial intelligence
+2025-04-07 11:19:56,172 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-07 11:20:59,790 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-07 11:20:59,790 - werkzeug - INFO - 10.10.52.255 - - [07/Apr/2025 11:20:59] "POST /query HTTP/1.1" 200 -
+2025-04-07 11:22:08,180 - __main__ - INFO - Received query: explain importance of cloud computing in detainsl
+2025-04-07 11:22:08,180 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-07 11:23:45,697 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-07 11:23:45,698 - werkzeug - INFO - 10.10.52.255 - - [07/Apr/2025 11:23:45] "POST /query HTTP/1.1" 200 -
+2025-04-07 11:24:27,972 - werkzeug - INFO - 10.10.52.255 - - [07/Apr/2025 11:24:27] "GET / HTTP/1.1" 200 -
+2025-04-15 08:32:15,693 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-15 08:32:15,695 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-15 08:32:15,846 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-04-15 08:32:15,846 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 08:32:15,859 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 08:32:17,028 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-15 08:32:17,028 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-15 08:32:17,055 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 08:32:17,063 - werkzeug - INFO -  * Debugger PIN: 420-463-188
+2025-04-15 08:32:26,357 - werkzeug - INFO - 192.168.0.102 - - [15/Apr/2025 08:32:26] "GET / HTTP/1.1" 200 -
+2025-04-15 08:32:26,545 - werkzeug - INFO - 192.168.0.102 - - [15/Apr/2025 08:32:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-15 08:33:22,517 - __main__ - INFO - Received query: what is decentralized app
+2025-04-15 08:33:22,517 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-15 08:35:03,959 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-15 08:35:03,959 - werkzeug - INFO - 192.168.0.102 - - [15/Apr/2025 08:35:03] "POST /query HTTP/1.1" 200 -
+2025-04-17 21:38:25,306 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-17 21:38:25,307 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-17 21:38:25,460 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-04-17 21:38:25,460 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 21:38:25,463 - werkzeug - INFO -  * Restarting with stat
+2025-04-17 21:38:26,553 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-17 21:38:26,553 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-17 21:38:26,576 - werkzeug - WARNING -  * Debugger is active!
+2025-04-17 21:38:26,585 - werkzeug - INFO -  * Debugger PIN: 420-463-188
+2025-04-17 21:38:38,197 - werkzeug - INFO - 192.168.0.102 - - [17/Apr/2025 21:38:38] "GET / HTTP/1.1" 200 -
+2025-04-17 21:38:39,062 - werkzeug - INFO - 192.168.0.102 - - [17/Apr/2025 21:38:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 21:39:03,887 - __main__ - INFO - Received query: what is friction?
+2025-04-17 21:39:03,887 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-17 21:40:29,570 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-17 21:40:29,574 - werkzeug - INFO - 192.168.0.102 - - [17/Apr/2025 21:40:29] "POST /query HTTP/1.1" 200 -
+2025-04-21 12:40:26,365 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-21 12:40:26,366 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-21 12:40:26,506 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-04-21 12:40:26,506 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 12:40:26,512 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 12:40:27,546 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-21 12:40:27,546 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-21 12:40:27,573 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 12:40:27,581 - werkzeug - INFO -  * Debugger PIN: 420-463-188
+2025-04-21 12:40:35,953 - werkzeug - INFO - 192.168.0.102 - - [21/Apr/2025 12:40:35] "GET / HTTP/1.1" 200 -
+2025-04-21 12:40:36,015 - werkzeug - INFO - 192.168.0.102 - - [21/Apr/2025 12:40:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 12:40:40,202 - __main__ - INFO - Received query: hi
+2025-04-21 12:40:40,202 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-21 12:54:49,142 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-21 12:54:49,143 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-21 12:54:49,185 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-04-21 12:54:49,185 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 12:54:49,187 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 12:54:50,407 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-21 12:54:50,408 - __main__ - INFO - Successfully connected to Ollama with model mistral:instruct
+2025-04-21 12:54:50,420 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 12:54:50,425 - werkzeug - INFO -  * Debugger PIN: 420-463-188
+2025-04-21 12:54:55,202 - werkzeug - INFO - 192.168.0.102 - - [21/Apr/2025 12:54:55] "GET / HTTP/1.1" 200 -
+2025-04-21 12:55:00,491 - __main__ - INFO - Detected category: General
+2025-04-21 12:55:00,494 - __main__ - INFO - Received query: hi
+2025-04-21 12:55:00,496 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-21 12:56:19,820 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-21 12:56:19,831 - werkzeug - INFO - 192.168.0.102 - - [21/Apr/2025 12:56:19] "POST /query HTTP/1.1" 200 -
+2025-04-21 12:58:36,471 - __main__ - INFO - Detected category: Science
+2025-04-21 12:58:36,478 - __main__ - INFO - Received query: teach me about: momentum (Physics)
+2025-04-21 12:58:36,480 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-21 13:00:09,465 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-21 13:00:09,466 - werkzeug - INFO - 192.168.0.102 - - [21/Apr/2025 13:00:09] "POST /query HTTP/1.1" 200 -
+2025-04-21 13:02:22,157 - __main__ - INFO - Detected category: General
+2025-04-21 13:02:22,157 - __main__ - INFO - Received query: what is the importance of trigonometry in real life?
+2025-04-21 13:02:22,157 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-21 13:04:23,502 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-21 13:04:23,504 - werkzeug - INFO - 192.168.0.102 - - [21/Apr/2025 13:04:23] "POST /query HTTP/1.1" 200 -
+2025-04-21 13:08:38,623 - __main__ - INFO - Detected category: History
+2025-04-21 13:08:38,623 - __main__ - INFO - Received query: generate a roadmap for  learning machine learning from scratch
+2025-04-21 13:08:38,623 - __main__ - WARNING - Search API key not available, using direct scraping
+2025-04-21 13:12:04,353 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-21 13:12:04,369 - werkzeug - INFO - 192.168.0.102 - - [21/Apr/2025 13:12:04] "POST /query HTTP/1.1" 200 -
